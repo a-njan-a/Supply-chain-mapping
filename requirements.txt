@@ -1,0 +1,4 @@
+finlight-client
+spacy
+spacy-entity-linker
+rapidfuzz
