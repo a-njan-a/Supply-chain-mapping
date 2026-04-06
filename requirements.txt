@@ -2,3 +2,8 @@ finlight-client
 spacy
 spacy-entity-linker
 rapidfuzz
+sentence-transformers 
+scikit-learn
+wikipedia-api
+torch
+torchtext
