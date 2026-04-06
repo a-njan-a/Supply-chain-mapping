@@ -1,0 +1,17 @@
+[
+  {
+    "sentence": "<E1> Nvidia </E1> reported <E2> Q4 </E2> earnings Wednesday. Here are the key figures and a look at guidance. Will the results be enough to boost the stock and overall market?",
+    "entity1": "Nvidia",
+    "entity2": "BMW Group"
+  },
+  {
+    "sentence": "<E1> Nvidia </E1> reported Q4 earnings <E2> Wednesday </E2>. Here are the key figures and a look at guidance. Will the results be enough to boost the stock and overall market?",
+    "entity1": "Nvidia",
+    "entity2": "Walmart"
+  },
+  {
+    "sentence": "Nvidia reported <E1> Q4 </E1> earnings <E2> Wednesday </E2>. Here are the key figures and a look at guidance. Will the results be enough to boost the stock and overall market?",
+    "entity1": "BMW Group",
+    "entity2": "Walmart"
+  }
+]
